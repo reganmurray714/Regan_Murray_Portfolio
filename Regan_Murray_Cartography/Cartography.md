@@ -21,7 +21,7 @@
 ### Democratic Republic of the Congo Terrain Map
 <img src="img_files/DRC_Final (1).jpg" alt="Democratic Republic of the Congo Terrain Map" width="400"/>
 
-- **Description**: This was a quick map I developed as a passion project in honor of my favorite book of all time, The Poisonwood Bible by Barbara Kingsolver! I followed the extremely useful tutorias Daniel Huffman posted on their [blog][https://somethingaboutmaps.wordpress.com/] to generate shaded relief and hypsometric tints. Because this map was going to be of an entire country, I used a low-resolution DEM downloaded from Viewfinder Panoramas. Photoshop was used to blend the hypsometric tint and hydrography layers into the shaded relief I developed in Blender. Although processing intensive, this was quite a fun project that helped bring my favorite book to life for me!
+- **Description**: This was a quick map I developed as a passion project in honor of my favorite book of all time, The Poisonwood Bible by Barbara Kingsolver! I followed the extremely useful tutorias Daniel Huffman posted on their [blog](https://somethingaboutmaps.wordpress.com/) to generate shaded relief and hypsometric tints. Because this map was going to be of an entire country, I used a low-resolution DEM downloaded from Viewfinder Panoramas. Photoshop was used to blend the hypsometric tint and hydrography layers into the shaded relief I developed in Blender. Although processing intensive, this was quite a fun project that helped bring my favorite book to life for me!
 - **Skills Used**: Blender, Adobe Photoshop, Adobe Illustrator
 
 ### DOI Land Management Agency by DOI Region
