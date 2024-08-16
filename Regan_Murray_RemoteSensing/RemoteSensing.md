@@ -17,6 +17,17 @@
 - **Impact**: This work was incorporated into the [California Aquatic Resource Inventory](https://www.sfei.org/cari) and gained recognition and attention from several organizaitons, notably the Environmental Protection Agency (EPA). This project sparked an ongoing collaboration between SFEI and the EPA, and was used as leverage for the institute to gain access to typically costly Planet imagery.
 - **Skills Used**: ArcGIS Pro, Python, Google Earth Engine, eCognition
 
+### Contaminents of Emerging Concern (In Progress)
+<img src="img_files/art_turf.png" alt="CEC Outputs" width="400"/> <img src="img_files/art_turf_2.png" alt="CEC Outputs" width="400"/>
+<img src="img_files/solarpanel1.png" alt="CEC Outputs" width="400"/> <img src="img_files/solarpanel2.png" alt="CEC Outputs" width="400"/>
+<img src="img_files/parking_lots_2.png" alt="CEC Outputs" width="400"/> <img src="img_files/parking_lots.png" alt="CEC Outputs" width="400"/>
+<img src="img_files/roofs_2.png" alt="CEC Outputs" width="200"/> <img src="img_files/roofs_3.png" alt="CEC Outputs" width="200"/> <img src="img_files/roofs.png" alt="CEC Outputs" width="200"/>
+<img src="img_files/roofs4.png" alt="CEC Outputs" width="200"/>
+
+- **Description**: In collaboration with the Clean Water program at SFEI, I have been developing methods for using remote sensing to estimate toxins in water for the Contaminents of Emerging Concern (CEC) project. Target classes for this project include artifical turf, solar panels, parking lots, roadways, and roofing material. The outputs for this project were generated using both a Convolutional Neural Network (CNN) and Support Vector Machine (SVM). Inputs include high resolution imagery (30cm NAIP 2020) and lidar (1m resolution 3DEP 2020).
+- **Impact**: This work is in progress.
+- **Skills Used**: ArcGIS Pro, Python, eCognition
+
 ## Housekeeping
 - Email: regan.murray714@gmail.com
 
