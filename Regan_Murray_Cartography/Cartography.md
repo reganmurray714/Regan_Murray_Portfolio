@@ -30,7 +30,7 @@
 - **Description**: This was a quick map I developed to support an effort to determine how funding from the various Department of Interior (DOI) agencies should be distributed to restoration/ land management projects by DOI region. I ended up performing a quick analysis of the area managed by each DOI agency within each DOI region, then created this graphic as a visual companion to the final tabular dataset. The size of the circles represent what proportion of all federal land falls within each DOI region, and the colors within each pie chart represents the respective DOI agencies that had contributed funds. 
 - **Skills Used**: ArcGIS Pro, Excel, Adobe Illustrator
 
-## Contact Information
+## Housekeeping
 - Email: regan.murray714@gmail.com
 
-Feel free to reach out if you have any questions or would like to collaborate!
+Each of the image files referenced above is available in the img_files folder within this directory. Please take a look and feel free to reach out if you have any questions or would like to collaborate!
