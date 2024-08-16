@@ -1,10 +1,8 @@
 # Cartography Projects
 
 ### DOI Land Management Agency by DOI Region
-![Project 1 Image](img_files/DOIRegion_LandManagement.jpg)
-- **Description**: This was a quick map I developed to support an effort to determine how funding from the various Department of Interior (DOI) agencies should be distributed to restoration/ land management projects by DOI region. I ended up performing a quick analysis of the area managed by each DOI agency within each DOI region, then created this graphic as a visual companion to the final tabular dataset. 
-
-The size of the circles represent what proportion of all federal land falls within each DOI region, and the colors within each pie chart represents the respective DOI agencies that had contributed funds. 
+![DOI Agency by Region](img_files/DOIRegion_LandManagement.jpg |width=500)
+- **Description**: This was a quick map I developed to support an effort to determine how funding from the various Department of Interior (DOI) agencies should be distributed to restoration/ land management projects by DOI region. I ended up performing a quick analysis of the area managed by each DOI agency within each DOI region, then created this graphic as a visual companion to the final tabular dataset. The size of the circles represent what proportion of all federal land falls within each DOI region, and the colors within each pie chart represents the respective DOI agencies that had contributed funds. 
 - **Skills Used**: ArcGIS Pro, Excel, Adobe Illustrator
 
 ### [Project 2 Name]
